@@ -1,7 +1,8 @@
 ### Hello Evreyone ! 👋
 
-**Here is my social media :**
 - 🌱 I’m currently learning @ ENSEA - French Electronics Engineer School
+
+**Here is my social media :**
 - 💼 Linkedin : [Arthur Pellegrin](https://www.linkedin.com/in/arthurpellegrin/)
 
 <!--
