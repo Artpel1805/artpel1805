@@ -22,7 +22,7 @@
 
 🎨 Stack :
 
-- 🐍 **Python** : FastAPI, and Basic Library
+- 🐍 **Python** : FastAPI and Basic Library
 - 🐦 **Dart** : Flutter
 - 👴🏼 **C** : For Embedded Systems and STM32
 - 🧩 **Java**
