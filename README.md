@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello Evreyone ! 👋
+
+**Here is my social media :**
+- 💼 Linkedin : [Arthur Pellegrin](https://www.linkedin.com/in/arthurpellegrin/)
 
 <!--
 **Artpel1805/artpel1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
