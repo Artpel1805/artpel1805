@@ -1,4 +1,6 @@
 <h1 align="center">Arthur PELLEGRIN</h1>
+
+
 <div align=center>
 <picture>
 <source 
@@ -12,6 +14,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ArtPel1805&show_icons=true" />
 </picture>
 </div>
+
+
 🌱 I’m currently studying @ ENSEA - French Electronics Engineer School
 
 🎨 Stack :
