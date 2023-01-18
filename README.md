@@ -4,11 +4,11 @@
 
 🎨 Stack :
 
-    - 🐍 **Python** : FastAPI, and Basic Library
-    - 🐦 **Dart** : Flutter
-    - 👴🏼 **C** : For Embedded Systems and STM32
-    - 🧩 **Java**
-    - 📡 **JavaScript**: React/React-Nactive
+- 🐍 **Python** : FastAPI, and Basic Library
+- 🐦 **Dart** : Flutter
+- 👴🏼 **C** : For Embedded Systems and STM32
+- 🧩 **Java**
+- 📡 **JavaScript**: React/React-Nactive
 
 
 
