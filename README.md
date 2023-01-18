@@ -3,8 +3,12 @@
 - 🌱 I’m currently learning @ ENSEA - French Electronics Engineer School
 
 - ⚙️ Stack :
-- - *Python* :
-- - -
+    - *Python* : FastAPI, and Basic Library
+    - *Dart* : Flutter
+    - *C* : For Embeded Systems and STM32
+    - *Java*
+    - *JavaScript*: React/React-Nactive
+
 
 
 **Here is my social media :**
