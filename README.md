@@ -2,12 +2,12 @@
 
 - 🌱 I’m currently learning @ ENSEA - French Electronics Engineer School
 
-- ⚙️ Stack :
-    - *Python* : FastAPI, and Basic Library
-    - *Dart* : Flutter
-    - *C* : For Embedded Systems and STM32
-    - *Java*
-    - *JavaScript*: React/React-Nactive
+- 🎨 Stack :
+    - 🐍 *Python* : FastAPI, and Basic Library
+    - 🐦 *Dart* : Flutter
+    - 👴🏼 *C* : For Embedded Systems and STM32
+    - 🧩 *Java*
+    - 📡 *JavaScript*: React/React-Nactive
 
 
 
