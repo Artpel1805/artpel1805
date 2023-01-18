@@ -2,6 +2,11 @@
 
 - 🌱 I’m currently learning @ ENSEA - French Electronics Engineer School
 
+- ⚙️ Stack :
+- - *Python* :
+- - -
+
+
 **Here is my social media :**
 - 💼 Linkedin : [Arthur Pellegrin](https://www.linkedin.com/in/arthurpellegrin/)
 
