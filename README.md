@@ -24,9 +24,10 @@
 
 - 🐍 **Python** : FastAPI and Basic Library
 - 🐦 **Dart** : Flutter
-- 👴🏼 **C** : For Embedded Systems and STM32
+- 👴🏼 **C** : For Embedded Systems and STM32, FreeRTOS
 - 🧩 **Java**
 - 📡 **JavaScript**: React/React-Nactive
+- 🖥 **Linux**
 
 
 
