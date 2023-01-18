@@ -3,6 +3,7 @@
 🌱 I’m currently studying @ ENSEA - French Electronics Engineer School
 
 🎨 Stack :
+
     - 🐍 **Python** : FastAPI, and Basic Library
     - 🐦 **Dart** : Flutter
     - 👴🏼 **C** : For Embedded Systems and STM32
