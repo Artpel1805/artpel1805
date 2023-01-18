@@ -5,7 +5,7 @@
 - ⚙️ Stack :
     - *Python* : FastAPI, and Basic Library
     - *Dart* : Flutter
-    - *C* : For Embeded Systems and STM32
+    - *C* : For Embedded Systems and STM32
     - *Java*
     - *JavaScript*: React/React-Nactive
 
