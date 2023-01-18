@@ -1,7 +1,8 @@
 <h1 align="center">Arthur PELLEGRIN</h1>
 
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtPel1805)](https://github.com/ArtPel1805/github-readme-stats)
-
+</div>
 
 🌱 I’m currently studying @ ENSEA - French Electronics Engineer School
 
