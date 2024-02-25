@@ -18,7 +18,7 @@
 </br>
 </br>
 
-<a href="[https://www.buymeacoffee.com/mitesh](https://www.buymeacoffee.com/tutacodex)"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+<a href="[https://www.buymeacoffee.com/tutacodex]"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
 
 🌱 Company Founder and CEO 🌱
