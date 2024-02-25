@@ -29,8 +29,3 @@
 - 📡 **JavaScript**: React/React-Nactive
 - 🖥 **Linux**
 
-
-
-**Here is my social media :**
-- 💼 Linkedin : [Arthur Pellegrin](https://www.linkedin.com/in/arthurpellegrin/)
-
