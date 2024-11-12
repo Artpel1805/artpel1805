@@ -19,15 +19,15 @@
 </br>
 
 
-🌱 Company Founder and CEO 🌱
-French Electronics Engineer School
+🌱 Engineer 🌱
+Passionate about changing the way people behave with technology
 
 🎨 Stack :
 
-- 🐍 **Python** : FastAPI and Basic Library
+- 🐍 **Python** : FastAPI, ML, NLP
 - 🐦 **Dart** : Flutter
-- 👴🏼 **C** : For Embedded Systems and STM32, FreeRTOS
+- 👴🏼 **C, C++** : For Embedded Systems and STM32, FreeRTOS
 - 🧩 **Java**
-- 📡 **JavaScript**: React/React-Nactive
+- 📡 **JavaScript**: React, React-Nactive, NodeJS, NextJS
 - 🖥 **Linux**
 
